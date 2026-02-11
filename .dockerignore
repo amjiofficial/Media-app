@@ -1,0 +1,6 @@
+media.db
+.git
+.gitignore
+*.md
+.env
+.DS_Store
